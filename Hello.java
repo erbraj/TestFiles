@@ -1,6 +1,6 @@
 public class Hello{
   public static void main(String args[])
     {
-    System.out.println("Hello Team Technical team of tech");
+    System.out.println("Hello Technical team,Bangalore");
     }
 }
