@@ -1,7 +1,7 @@
 public class Hello{
   public static void main(String args[])
     {
-    int n1 = 225, n2 = 115, sum;  
+    int n1 = 225, n2 = 275, sum;  
     sum = n1 + n2;  
     System.out.println("Addition is :-"+sum);
     }
